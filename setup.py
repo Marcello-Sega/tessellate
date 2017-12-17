@@ -15,7 +15,7 @@ requirements = [
     'Click>=6.0',
     'numpy',
     'bson',
-    'biopython'
+    'biopython>=1.70'
     # TODO: put package requirements here
 ]
 
